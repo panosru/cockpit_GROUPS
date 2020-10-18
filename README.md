@@ -1,3 +1,6 @@
+### Archived See: https://github.com/serjoscha87/cockpit_GROUPS/tree/mongodb-patch
+
+
 # Groups Management UI Addon for Cockpit
 
 Cockpit: https://github.com/agentejo/cockpit
